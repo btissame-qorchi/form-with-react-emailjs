@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/form-with-react-emailjs/static/css/main.aae7616e.css",
+    "main.js": "/form-with-react-emailjs/static/js/main.73d80341.js",
+    "static/js/787.ae263ea1.chunk.js": "/form-with-react-emailjs/static/js/787.ae263ea1.chunk.js",
+    "index.html": "/form-with-react-emailjs/index.html",
+    "main.aae7616e.css.map": "/form-with-react-emailjs/static/css/main.aae7616e.css.map",
+    "main.73d80341.js.map": "/form-with-react-emailjs/static/js/main.73d80341.js.map",
+    "787.ae263ea1.chunk.js.map": "/form-with-react-emailjs/static/js/787.ae263ea1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aae7616e.css",
+    "static/js/main.73d80341.js"
+  ]
+}
