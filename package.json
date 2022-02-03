@@ -1,6 +1,5 @@
-
 {
-  "homepage": "http://btissame-qorchi.github.io/react-emailjs-form",
+  "homepage": "https://btissame-qorchi.github.io",
   "name": "form-react",
   "version": "0.1.0",
   "private": true,
@@ -14,8 +13,8 @@
     "web-vitals": "^2.1.3"
   },
   "scripts": {
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
