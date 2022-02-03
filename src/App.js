@@ -56,7 +56,6 @@ const App = () => {
         message:message,
       });
     } else {
-      //alert('Please fill in the filed necessary, marked with an asterisk (*)');
       failMessage('Please fill in the filed necessary, marked with an asterisk (*)');
     }
   };
